@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-18T01:23:26.574Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.6788.400 QQBrowser/10.3.2843.400" etag="YRCVwPi0dOfNHvbR9p-e" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-18T01:25:04.472Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.6788.400 QQBrowser/10.3.2843.400" etag="WWKfob6qIbUgkwZeLawV" version="12.5.5" type="github">
   <diagram id="uVdVUegfJ4Co0dEcWwCi" name="Page-1">
     <mxGraphModel dx="1089" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
@@ -47,9 +47,9 @@
             <mxPoint x="1305" y="480" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xN7cwKIfn4v0KPfY66kA-9" value="R_UserInfo_ActionInfo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="510" y="615" width="170" height="26" as="geometry">
-            <mxRectangle x="540" y="615" width="170" height="52" as="alternateBounds"/>
+        <mxCell id="xN7cwKIfn4v0KPfY66kA-9" value="R_UserInfo_ActionInfo（用户权限关联信息）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="453.5" y="615" width="290" height="26" as="geometry">
+            <mxRectangle x="510" y="615" width="170" height="52" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="xN7cwKIfn4v0KPfY66kA-10" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xN7cwKIfn4v0KPfY66kA-9" target="xN7cwKIfn4v0KPfY66kA-1">
